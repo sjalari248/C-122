@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+	background-color:beige;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background-color:darksalmon ;
+	border-radius: 20px;
+}
+
+button
+{
+	border-radius: 10px;
+	background-color: lightcoral;
+}
